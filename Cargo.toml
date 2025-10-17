@@ -60,7 +60,7 @@ solana-address-lookup-table-interface = { default-features = false, version = "^
 solana-banks-client = { default-features = false, version = "^2" }
 solana-banks-interface = { default-features = false, version = "^2" }
 solana-clock = { default-features = false, version = "^2" }
-solana-commitment-config = { default-features = false, version = "^2" }
+solana-commitment-config = { default-features = false, version = "^3" }
 solana-config-program-client = { default-features = false, version = "^1" }
 solana-epoch-schedule = { default-features = false, version = "^2" }
 solana-faucet = { default-features = false, version = "^2" }

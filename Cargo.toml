@@ -85,7 +85,7 @@ solana-sdk-ids = { default-features = false, version = "^2" }
 solana-signature = { version = "2", default-features = false }
 solana-slot-hashes = { default-features = false, version = "^2" }
 solana-slot-history = { default-features = false, version = "^2" }
-solana-stake-interface = { default-features = false, version = "^1" }
+solana-stake-interface = { default-features = false, version = "^2" }
 solana-system-interface = { default-features = false, version = "^1" }
 solana-sysvar = { default-features = false, version = "^2" }
 solana-test-validator = { default-features = false, version = "^2" }
